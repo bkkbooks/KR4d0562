@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR4d0562/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0562_WYG_000-1a, image: WYG1218/WYG1218-0457a.png}
+body:
+  text: 石初集别集類四元提要臣等謹按石初集十巻元周霆震撰霆震字亨逺安成人以先世居石門田西自號石田子初省其文則曰石初早年刻意學問多從宋諸遺老逰得其緒論延祐中行科舉法再試不售遂杜門専意詩古文是集為廬陵晏璧所編集後行狀誌銘之屬亦璧所附也霆震生於前至正二十九年壬辰卒於明洪武二十年己未年八十有八親見元代之盛又親見元代之亡故其詩憂時傷亂感憤至深如二月十六日青兵逼城古金城謡李潯陽死節歌兵前鼓農謡杜䳌行過玉城砦城闗西郡城髙人食人延平龍劍歌冦至雜咏冦自北來軍中苦樂謡宿州歌諸篇並叙述亂離沈痛酸楚使異代尚如見其情狀昔汪元量水雲集論者謂宋末之詩史霆震此集其亦元末之詩史歟乾隆四十一年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書集部五石初集目録别集類四元巻一五言古詩巻二七言古詩上巻三七言古詩下巻四五言律詩巻五五言絶句七言絶句巻六序巻七記巻八志銘巻九傳説題跋上巻十題跋下贊祭文
+  hash: sha256:7c4e78452b612009f21bb92c484c27ef03a1769484478fd1b8054bbd3d371d4b
+  markers:
+  - {type: page-break, offset: 304, content: '', id: KR4d0562_WYG_000-3a, image: WYG1218/WYG1218-0458c.png}
+metadata:
+  title: 石初集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:14:32.990017'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0562/KR4d0562_000.txt
+hash: sha256:a8bcc67e03209ff59cdd20f9ee5415b714cc73824d50e061fa0b36eb5f99ec3e
